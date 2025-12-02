@@ -53,7 +53,6 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Joblib-9B4F96?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Missingno-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ---
@@ -84,7 +83,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-aid-007&theme=tokyonight&hide_border=true" />
 </p>
 
