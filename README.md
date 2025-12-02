@@ -15,11 +15,11 @@
 
 ## 🧠 About Me  
 
-💡 A passionate **Data Science Explorer** who loves working with data to solve real-world problems.
+💡 Passionate **Data Science Explorer** turning data into actionable insights.
 
-- 🔍 Skilled in **Machine Learning, Analytics and Data Pipelines**
-- 📊 Strong interest in **Data Storytelling & Business Insight Building**
-- ⚙️ Hands-on experience with **Python Data Ecosystem**
+- 🔍 Skilled in **Machine Learning, Analytics, and Data Pipelines**
+- 📊 Focused on **Data Storytelling & Business Insight Building**
+- ⚙️ Experienced with the **Python Data Ecosystem**
 - 🌱 Currently learning: **MLOps, Deep Learning & Cloud Deployment**
 - 🎯 Goal: Become a **Full Stack Data Scientist**
 
@@ -27,10 +27,10 @@
 
 ## 🤖 Machine Learning Focus
 
-- 📌 Building modular ML pipelines with **Scikit-Learn, Pandas, NumPy**
-- ⚡ Deploying ML apps with **Streamlit & Hugging Face Spaces**
-- 🛠️ Automating **feature engineering & data cleaning**
-- 📊 Designing **decision curve analysis & calibrated risk models**
+- 📌 Modular ML pipelines with **Scikit-Learn, Pandas, NumPy**
+- ⚡ App deployment using **Streamlit & Hugging Face Spaces**
+- 🛠️ Automated **feature engineering & data cleaning**
+- 📊 Advanced **decision curve analysis & calibrated risk models**
 
 ---
 
@@ -38,7 +38,7 @@
 
 ### 🧩 Programming & Core Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" height="50"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
 ---
 
-### 📈 Visualization & BI
+### 📈 Visualization & BI Tools
 
 <p>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
@@ -72,10 +72,10 @@
 
 | 🔥 Project | 📄 Summary | 🛠️ Stack |
 |-----------|-----------|-----------|
-| 📊 **Sales Insights** | Business KPI and analytics to unlock insights | Python |
-| 🤖 **ML Prediction Model** | End-to-end ML pipeline with evaluation | Python • Sklearn • Joblib |
+| 📊 **Sales Insights** | Business KPIs and analytics to unlock insights | Python |
+| 🤖 **ML Prediction Model** | End-to-end ML pipeline with evaluation | Python • Scikit-Learn • Joblib |
 | 🧼 **Data Cleaning Automation** | Detects missing values, outliers & transforms data | Pandas • Missingno • NumPy |
-| 🧠 **AI Powered Storyteller Dashboard** | Generates AI-driven insights | Python • Streamlit • Hugging Face |
+| 🧠 **AI-Powered Storyteller Dashboard** | Generates AI-driven insights | Python • Streamlit • Hugging Face |
 
 🚧 *More exciting projects in progress... stay tuned ⚡*
 
@@ -86,11 +86,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-aid-007&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-aid-007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-aid-007&layout=compact&theme=tokyonight&hide_border=true" width="38%">
 </p>
 
 ---
@@ -110,7 +105,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-<img src="https://img.shields.io/badge/X(Formerly Twitter)-000?style=for-the-badge&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 <a href="mailto:vijayjoka25@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
