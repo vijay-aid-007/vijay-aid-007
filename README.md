@@ -1,5 +1,5 @@
 <!-- 🎯 HEADER -->
-<h1 align="center">✨ Hey, This Is VIJAY 👋</h1>
+<h1 align="center">✨ Hey, This Is VIJAY_JOKA 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=25&duration=4000&pause=1200&color=00E8FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Analytics+Professional;Machine+Learning+Enthusiast;Data+Explorer+|+Problem+Solver;Turning+Data+Into+Actionable+Insights+📊">
