@@ -28,7 +28,6 @@
 ## 🤖 Machine Learning Focus
 
 - 📌 Building modular ML pipelines with **Scikit-Learn, Pandas, NumPy**
-- 🧩 Exploring **Explainable AI (SHAP, Calibration, Fairness)**
 - ⚡ Deploying ML apps with **Streamlit & Hugging Face Spaces**
 - 🛠️ Automating **feature engineering & data cleaning**
 - 📊 Designing **decision curve analysis & calibrated risk models**
