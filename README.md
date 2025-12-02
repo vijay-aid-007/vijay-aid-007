@@ -83,11 +83,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-aid-007&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
+
 
 ## 🐍 Contribution Snake
 
