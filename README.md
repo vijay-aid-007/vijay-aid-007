@@ -30,7 +30,7 @@
 
 ### 🧩 Programming & Core Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" height="50"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/vijay-aid-007/vijay-aid-007/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/vijay-aid-007/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">⚡ Keep Learning • Keep Building • Keep Growing 🚀</p>
