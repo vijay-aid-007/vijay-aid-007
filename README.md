@@ -38,7 +38,7 @@
 
 ### 🧩 Programming & Core Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,jupyter" height="50"/>
 </p>
 
 ---
