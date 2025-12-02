@@ -1,9 +1,8 @@
 <!-- 🎯 HEADER -->
-<!-- Updated README -->
 <h1 align="center">✨ Hey, This Is VIJAY 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=25&duration=4000&pause=1200&color=00E8FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Analytics+Trainee;Machine+Learning+Enthusiast;Data+Explorer+|+Problem+Solver;Turning+Data+Into+Actionable+Insights+📊">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=25&duration=4000&pause=1200&color=00E8FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Analytics+Professional;Machine+Learning+Enthusiast;Data+Explorer+|+Problem+Solver;Turning+Data+Into+Actionable+Insights+📊">
 </p>
 
 ---
@@ -14,7 +13,7 @@
 
 ---
 
-### 🧠 About Me  
+## 🧠 About Me  
 
 💡 A passionate **Data Science Explorer** who loves working with data to solve real-world problems.
 
@@ -26,11 +25,21 @@
 
 ---
 
+## 🤖 Machine Learning Focus
+
+- 📌 Building modular ML pipelines with **Scikit-Learn, Pandas, NumPy**
+- 🧩 Exploring **Explainable AI (SHAP, Calibration, Fairness)**
+- ⚡ Deploying ML apps with **Streamlit & Hugging Face Spaces**
+- 🛠️ Automating **feature engineering & data cleaning**
+- 📊 Designing **decision curve analysis & calibrated risk models**
+
+---
+
 ## 🛠️ Tech & Tools
 
 ### 🧩 Programming & Core Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,docker" height="50"/>
 </p>
 
 ---
@@ -45,6 +54,7 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Joblib-9B4F96?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Missingno-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ---
@@ -66,7 +76,7 @@
 | 📊 **Sales Insights** | Business KPI and analytics to unlock insights | Python |
 | 🤖 **ML Prediction Model** | End-to-end ML pipeline with evaluation | Python • Sklearn • Joblib |
 | 🧼 **Data Cleaning Automation** | Detects missing values, outliers & transforms data | Pandas • Missingno • NumPy |
-| 🧼 **Ai Powered Storyteller Dashboard** | Generates AI Insights | Python • Streamlit • Hugging Face |
+| 🧠 **AI Powered Storyteller Dashboard** | Generates AI-driven insights | Python • Streamlit • Hugging Face |
 
 🚧 *More exciting projects in progress... stay tuned ⚡*
 
@@ -75,12 +85,21 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vijay-aid-007&theme=tokyonight&hide_border=true" width="47%">
-<img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-aid-007&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-aid-007&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-aid-007&layout=compact&theme=tokyonight&hide_border=true" width="38%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-aid-007&layout=compact&theme=tokyonight&hide_border=true" width="38%">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vijay-aid-007/vijay-aid-007/output/snake.svg" />
 </p>
 
 ---
@@ -108,10 +127,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vijay-aid-007&label=Profile%20Visitors&color=blueviolet&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/vijay-aid-007/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">⚡ Keep Learning • Keep Building • Keep Growing 🚀</p>
