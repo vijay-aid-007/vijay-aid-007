@@ -20,7 +20,7 @@
 - 🔍 Skilled in **Machine Learning, Analytics, and Data Pipelines**
 - 📊 Focused on **Data Storytelling & Business Insight Building**
 - ⚙️ Experienced with the **Python Data Ecosystem**
-- 🌱 Currently learning: **MLOps, Deep Learning & Cloud Deployment**
+- 🌱 Currently learning: **Adv ML, MLOps, Deep Learning & Cloud Deployment**
 - 🎯 Goal: Become a **Full Stack Data Scientist**
 
 ---
