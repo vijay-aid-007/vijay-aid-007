@@ -10,6 +10,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   generate:
@@ -19,20 +21,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
         with:
-          name: snake-animation
-          path: dist/snake.svg
+          path: dist
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
-        with:
-          build_dir: dist
