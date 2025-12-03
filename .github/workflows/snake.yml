@@ -1,39 +1,82 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ "main" ]
+  workflow_dispatch:
 
+# required for pages/deploy and writing branch contents
 permissions:
   contents: write
   pages: write
   id-token: write
 
 jobs:
-  generate:
+  generate-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
+      - name: Print Git info (debug)
+        run: |
+          echo "=== GIT REPO INFO ==="
+          git --version
+          git rev-parse --abbrev-ref HEAD || true
+          echo "Listing top-level files:"
+          ls -la
+
+      - name: Ensure node (for some actions that might need it)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Generate Snake SVG(s)
+        # Platane/snk is the commonly used action for the GitHub profile snake
         uses: Platane/snk@v3
         with:
+          # keep this dynamic: github.repository_owner ensures correct user
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          # ask for the default svg; (you can add other outputs here)
+          outputs: |
+            dist/snake.svg
 
-      - name: Setup Pages
+      - name: Show dist/ after generation (debug)
+        run: |
+          echo "=== dist/ listing ==="
+          if [ -d dist ]; then
+            ls -la dist || true
+            file dist/snake.svg || true
+            echo "dist exists and files listed above"
+          else
+            echo "ERROR: dist/ directory not found"
+            exit 2
+          fi
+
+      - name: Upload artifact (keep a copy even if pages deploy fails)
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-artifact
+          path: dist
+
+      - name: Configure GitHub Pages (required setup step)
         uses: actions/configure-pages@v4
 
-      - name: Upload artifact
+      - name: Upload Pages artifact (for deploy-pages flow)
         uses: actions/upload-pages-artifact@v4
         with:
           path: dist
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
+
+      - name: Show final artifact url (info only)
+        run: |
+          owner="${{ github.repository_owner }}"
+          repo="${{ github.event.repository.name }}"
+          echo "If Pages uses the repository 'output' or user pages, check these URLs:"
+          echo "https://raw.githubusercontent.com/${owner}/${repo}/output/snake.svg (if you use 'output' branch)"
+          echo "https://raw.githubusercontent.com/${owner}/${repo}/main/dist/snake.svg (raw file from main)"
+          echo "Also check GitHub Pages site (if enabled): https://${owner}.github.io/${repo}/"
