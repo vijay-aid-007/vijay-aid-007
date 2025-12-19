@@ -75,6 +75,8 @@
 | 🤖 **ML Prediction Model** | End-to-end ML pipeline with evaluation | Python • Scikit-Learn • Joblib |
 | 🧼 **Data Cleaning Automation** | Detects missing values, outliers & transforms data | Pandas • Missingno • NumPy |
 | 🧠 **AI-Powered Storyteller Dashboard** | Generates AI-driven insights | Python • Streamlit • Hugging Face |
+| 📊 **OTT Media Analytics Dashboard** | Interactive OTT Content Performance Insights | Power BI |
+
 
 🚧 *More exciting projects in progress... stay tuned ⚡*
 
