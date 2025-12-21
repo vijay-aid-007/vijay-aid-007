@@ -76,6 +76,7 @@
 | 🧼 **Data Cleaning Automation** | Detects missing values, outliers & transforms data | Pandas • Missingno • NumPy |
 | 🧠 **AI-Powered Storyteller Dashboard** | Generates AI-driven insights | Python • Streamlit • Hugging Face |
 | 📊 **OTT Media Analytics Dashboard** | Interactive OTT Content Performance Insights | Power BI |
+| 📊 **Credit Card Approval Prediction** | Adv Machine Learning Credit Approval Model | Python • Scikit-Learn |
 
 
 🚧 *More exciting projects in progress... stay tuned ⚡*
