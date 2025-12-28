@@ -53,7 +53,9 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Joblib-9B4F96?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Missingno-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/D--Tale-%23008080?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
 
 ---
 
