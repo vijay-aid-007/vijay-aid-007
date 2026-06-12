@@ -81,6 +81,7 @@
 | 🧠 **AI-Powered Storyteller Dashboard** | Generates AI-driven insights | Python • Streamlit • Hugging Face |
 | 📊 **OTT Media Analytics Dashboard** | Interactive OTT Content Performance Insights | Power BI |
 | 📊 **Credit Card Approval Prediction** | Adv Machine Learning Credit Approval Model | Python • Scikit-Learn |
+| 🛰️ **EO/SAR Change Detection** | Binary change detection on satellite image pairs using CNN | Python • TensorFlow • Keras |
 
 
 🚧 *More exciting projects in progress... stay tuned ⚡*
