@@ -20,7 +20,7 @@
 - 🔍 Skilled in **Machine Learning, Analytics, and Data Pipelines**
 - 📊 Focused on **Data Storytelling & Business Insight Building**
 - ⚙️ Experienced with the **Python Data Ecosystem**
-- 🌱 Currently learning: **Deep Learning, RAG, MCP & Cloud Deployment**
+- 🌱 Currently learning: **Deep Learning, RAG, MCP & GEN AI**
 - 🎯 Goal: Become a **Full Stack Data Scientist**
 
 ---
