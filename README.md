@@ -149,6 +149,11 @@ A Streamlit-based application that automates CSV analysis and generates AI-assis
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Programming Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-aid-007&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
