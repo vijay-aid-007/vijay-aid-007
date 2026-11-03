@@ -146,6 +146,7 @@ A Streamlit-based application that automates CSV analysis and generates AI-assis
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -154,13 +155,9 @@ A Streamlit-based application that automates CSV analysis and generates AI-assis
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-aid-007&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-aid-007&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+
 
 ---
 
