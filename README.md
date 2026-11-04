@@ -174,7 +174,7 @@ A Streamlit-based application that automates CSV analysis and generates AI-assis
 I'm always interested in connecting with developers, AI/ML engineers, recruiters, and technical teams working on interesting problems.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vdsj2533">
+  <a href="https://www.linkedin.com/in/vijayjoka/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vijayjoka25@gmail.com">
