@@ -11,7 +11,7 @@ Currently strengthening my expertise in **Generative AI, Agentic AI, advanced Ma
 
 - 🔭 **Currently working on:** Autonomous Enterprise Intelligence Platform
 - 🤖 **Core interests:** Machine Learning, GenAI, RAG, and AI Agents
-- 🧠 **Technical focus:** Python, ML pipelines, LLM integration, and information retrieval
+- 🧠 **Technical focus:** Python, ML pipelines, LLM integration, Vector search  and information retrieval
 - 📚 **Education:** B.Tech CSE (AI & Data Science) | Post Graduate Program in Data Science & Analytics (Advanced ML Core Track)
 - 🎯 **Career goal:** Building intelligent, reliable, and useful AI systems
 - 📫 **Reach me:** vijayjoka25@gmail.com
